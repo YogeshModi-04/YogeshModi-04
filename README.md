@@ -143,4 +143,4 @@ Using and exploring Tensorflow Object Detection API and CV2 to perform Object De
 **English** - Proficient
 
 # Certificates
-- Machine Learning Specialization-Coursera(https://www.coursera.org/account/accomplishments/specialization/certificate/FAP4NXVVA4LR)
+- [Machine Learning Specialization-Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/FAP4NXVVA4LR)
