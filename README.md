@@ -143,7 +143,4 @@ Using and exploring Tensorflow Object Detection API and CV2 to perform Object De
 **English** - Proficient
 
 # Certificates
-- Supervised Machine Learning: Regression and Classification -Coursera
-- Advanced Learning Algorithms -Coursera
-- Unsupervised Learning, Recommenders, Reinforcement Learning -Coursera
-- Machine Learning Specialization-Coursera
+- Machine Learning Specialization-Coursera(!https://www.coursera.org/account/accomplishments/specialization/certificate/FAP4NXVVA4LR)
