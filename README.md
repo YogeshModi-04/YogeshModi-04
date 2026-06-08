@@ -17,20 +17,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Sr. AI / ML Engineer** with **3+ years** of production experience building intelligent systems that actually ship — from agentic pipelines running in enterprise environments to computer vision models deployed on edge devices.
+**Sr. AI / ML Engineer** with **3+ years** of production experience building intelligent systems that actually ship — from agentic pipelines running in enterprise environments to computer vision models deployed on edge devices.
 
-My focus is on the hardest parts: multi-agent orchestration, RAG at scale, LLM fine-tuning, and turning ambiguous business problems into robust, maintainable AI architectures.
-
-```python
-yogesh = {
-    "role":        "Sr. AI / ML Engineer @ Mindfire Solutions",
-    "focus":       ["Agentic Systems", "Multi-Agent Orchestration", "RAG Pipelines", "LLM Fine-tuning"],
-    "frameworks":  ["LangGraph", "LangChain", "A2A Protocol", "FastAPI", "HuggingFace"],
-    "cloud":       ["AWS (SageMaker, S3, EC2)", "GCP", "Docker"],
-    "currently":   "Building production-grade multi-agent AI platforms for enterprise clients",
-    "open_to":     "High-impact remote roles at top-tier AI-first organizations"
-}
-```
+- 🏢 &nbsp;Currently **Sr. Software Engineer (AI/ML)** at **Mindfire Solutions**
+- 🤖 &nbsp;Specializing in **Agentic Systems**, **Multi-Agent Orchestration**, and **RAG Pipelines**
+- 🧠 &nbsp;Experienced in **LLM Fine-tuning** (BERT, LLaMA), **Transformer Architectures**, and **NLP**
+- ☁️ &nbsp;Deploying on **AWS** (SageMaker, S3, EC2), **GCP**, and **Docker**-based infrastructure
+- 🔍 &nbsp;Deep expertise in **LangGraph**, **LangChain**, **A2A Protocol**, and **FastAPI**
+- 🌐 &nbsp;Open to **high-impact remote roles** at top-tier AI-first organizations
 
 ---
 
@@ -128,8 +122,14 @@ End-to-end video intelligence pipeline for real-time activity detection.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YogeshModi-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshModi-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YogeshModi-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YogeshModi-04&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YogeshModi-04&theme=tokyonight" />
 
 </div>
 
@@ -137,9 +137,9 @@ End-to-end video intelligence pipeline for real-time activity detection.
 
 ## 🏅 Certifications
 
-- 🎓 **Machine Learning Specialization** — Coursera / DeepLearning.AI *(Supervised ML, Advanced Algorithms, Unsupervised Learning, RL)*
-- 🔄 **Anthropic Certified Claude Associate (CCA-F)** — *In Progress · Jun 2026*
-- 📋 **AWS Solutions Architect Associate (SAA-C03)** — *In Progress · Aug 2026*
+- 🎓 &nbsp;**Machine Learning Specialization** — Coursera / DeepLearning.AI *(Supervised ML, Advanced Algorithms, Unsupervised Learning, RL)*
+- 🔄 &nbsp;**Anthropic Certified Claude Associate (CCA-F)** — *In Progress · Jun 2026*
+- 📋 &nbsp;**AWS Solutions Architect Associate (SAA-C03)** — *In Progress · Aug 2026*
 
 ---
 
