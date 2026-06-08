@@ -1,146 +1,155 @@
-- 👋 Hi, I’m @YogeshModi
-- 👀 I’m interested in AI, ML and DL. 
-- 🌱 I’m currently a Machine Learning Engineer and learnt Programming skills like C++ and python.
-- 💞️ I’m looking forward to praticpate in collobration programs , projects in my interested field so i can gain experience and knowlagde from that collab or project.
-- 📫 You can mail me : skmodiyogesh@gmail.com
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Yogesh%20Modi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Sr.%20AI%20%2F%20ML%20Engineer&descAlignY=60&descSize=20&descColor=7dd3fc" width="100%"/>
 
-# Summary
-An AI and Machine Learning Engineer based in Ahmedabad, Gujarat. With a Bachelor's degree in Information Technology from Gujarat Technological University, I've honed my skills in data science and AI through various roles at companies like Sunbots Innovations LLP, Zummit Infolabs, and VNurture Technologies. I am deeply passionate about leveraging machine learning algorithms to solve complex problems and am particularly interested in reinforcement learning and computer vision.
+</div>
 
-# Experience
-## Sunbots Innovations LLP
-**Machine learning and AI engineer**  
-*Ahmedabad, Gujarat, India*  
-*06/2023 - 12/2024*
+<div align="center">
 
-As an AI and Machine Learning Engineer, I have extensively engaged in the development and optimisation of both object and document detection models, employing advanced machine learning frameworks to significantly enhance performance and streamline operations across diverse applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yogesh%20Modi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-shivkumar-modi)
+[![Gmail](https://img.shields.io/badge/Email-skmodiyogesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmodiyogesh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-YogeshModi--04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YogeshModi-04)
+![Location](https://img.shields.io/badge/📍-Ahmedabad%2C%20India-38bdf8?style=for-the-badge)
 
-- Object Detection: Spearheaded dataset preparation, labelling, gathering, and filtering processes. Advanced the use of TensorFlow frameworks including TensorFlow Object Detection API, TensorFlow Model Maker, and Media-Pipe Model Maker, leading to a marked improvement in a currency detection model's accuracy from 55% to 79%.
-- Automation Initiatives: Developed an automated pipeline for image labelling utilising pre-trained models, which significantly reduced manual annotation efforts and increased processing speed.
-- Document Detection Model: Created and refined a document detection model, enhancing its initial accuracy from 80% to 94% through strategic improvements in dataset quality and hyper-parameter tuning.
-- PyTorch and Super-Gradient: Implemented training pipelines capable of handling all available Super-Gradient models for object detection and segmentation, incorporating a data filtering module to optimise dataset quality.
-- Ultralytics Framework: Engineered a comprehensive data pipeline and scripting environment to facilitate the training of all models available within the Ultralytics framework, enhancing versatility and deployment readiness.
-- Video Classification and Activity Detection: Developed a complete end-to-end training pipeline using MMAction2 for video classification and activity detection, significantly boosting model accuracy from 30% to 65% by transitioning from traditional LSTM techniques to pretrained MMAction2 models.
-- Collaboration and Deployment: Collaborated closely with the Android development team to ensure the seamless integration and deployment of machine learning models into mobile platforms.
-- Docker Utilisation: Managed various Docker containers to support application development and testing, ensuring robust and scalable deployment of machine learning applications.
-- Client and Team Support: Routinely provided innovative solutions and expert advice to both clients and team members, facilitating ongoing project success and technological advancement.
+</div>
 
-## Sunbots Innovations LLP
-**Artificial Intelligence Intern**  
-*Ahmedabad, Gujarat, India*  
-*02/2023 - 05/2023*
+---
 
-As an AI intern I have extensively engaged in the development and Learning of both object detection models, employing advanced machine learning frameworks to significantly enhance performance and streamline operations across diverse applications.
+## 👨‍💻 About Me
 
-- Researching on utilisation of frameworks like Tensorflow and cv2.
-- Learn Feature engineering and dataset preparation, extraction and Filtering.
-- Utilising Transfer learning for model training and testing. Conversion of
-- models from base format to tflite fromat.
+I'm a **Sr. AI / ML Engineer** with **3+ years** of production experience building intelligent systems that actually ship — from agentic pipelines running in enterprise environments to computer vision models deployed on edge devices.
 
-## Sunbots Innovations LLP
-**Camera vision intern**  
-*Ahmedabad, Gujarat, India*  
-*02/2023 - 05/2023*
+My focus is on the hardest parts: multi-agent orchestration, RAG at scale, LLM fine-tuning, and turning ambiguous business problems into robust, maintainable AI architectures.
 
-As an Camera vision intern i have learned to utilise computer vision for real world application and utilising the machine learning and deep learning models with computer vision and applied it to develop multi-framework utilising project and showcase the usage of these frameworks.
+```python
+yogesh = {
+    "role":        "Sr. AI / ML Engineer @ Mindfire Solutions",
+    "focus":       ["Agentic Systems", "Multi-Agent Orchestration", "RAG Pipelines", "LLM Fine-tuning"],
+    "frameworks":  ["LangGraph", "LangChain", "A2A Protocol", "FastAPI", "HuggingFace"],
+    "cloud":       ["AWS (SageMaker, S3, EC2)", "GCP", "Docker"],
+    "currently":   "Building production-grade multi-agent AI platforms for enterprise clients",
+    "open_to":     "High-impact remote roles at top-tier AI-first organizations"
+}
+```
 
-- Developed a multi-framework python script that utilise the machine learning models and cv2 to real time video analysis on sending alert for traffic assistant for pedestrians at traffic signals.
-- Learned computer vision to utilise it for real time video processing.
-- Utilising Raspberry -pi 4 for deploying and setting up the project script.
+---
 
-## Zummit Infolabs
-**Data Science Intern**  
-*India*  
-*10/2022 - 02/2023*
+## 🛠️ Tech Stack
 
-As a Trainee, I engaged in an intensive training program designed to provide foundational knowledge and skills in Machine Learning and Data Science. The training encompassed practical, hands-on experience, as well as theoretical learning, led by experienced professionals.
+**Languages & Data**
 
-- Underwent comprehensive training in Machine Learning and Data Science
-- Participated in workshops and hands-on sessions to enhance practical skills
-- Collaborated with team members on various projects
-- Received mentorship from experienced professionals
-- Completed assignments and tasks under supervision
-- Developed understanding of industry standards and practices
-- Prepared and delivered presentations on assigned topics
-- Engaged in continuous learning and improvement activities
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## VNurture Technologies
-**Python and Data Science Intern**  
-*Ahmedabad, Gujarat, India*  
-*06/2022 - 07/2022*
+**Agentic & LLM**
 
-- Work on basics of Python fundamentals
-- Solving problems related to Python basics
-- Learning data science libraries: Numpy, Pandas, Matplotlib, and Scikit-learn in Python
-- Learning basics of Power BI
-- Learning basic Machine Learning fundamentals
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-# Education
-## Gujarat Technological University (GTU)
-*07/2019 - 05/2023*  
-**Bachelor's degree, Information Technology**
+**ML / DL Frameworks**
 
-# Skills
-**Programming Languages:**  
-Python, SQL, MongoDB.
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-0047AB?style=flat-square&logoColor=white)
 
-**Frameworks:**  
-TensorFlow, Keras, PyTorch, XGBoost, Vision Transformer, Ultralytics, Super-Gradients.
+**Vector Databases**
 
-**Tools:**  
-Tesseract OCR, Flask, Kaggle, VS code, Github, AWS Sage Maker, Docker, Jyputer Notebook.
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0064A5?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF4A00?style=flat-square&logoColor=white)
 
-**Concepts:**  
-- Machine Learning Techniques: Time Series Classification, Transfer Learning, Decision Tree, Linear Regression, K-Means Clustering, Classification, Support Vector Machine, Naive Bayes Classifier, Logistic Regression, Random Forest.
+**Cloud & DevOps**
 
-- Deep Learning & Neural Networks: Deep Learning, Face Detection, Object Detection.
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-- Natural Language Processing: NLP Tokenization, Google OCR, Tesseract OCR.
+---
 
-- Image Processing and Computer Vision: Image Classification, Image Recognition, Computer Vision, Video Classification, video analysis.
+## 🚀 Featured Work
 
-- Machine Learning Project Phases: Feature Engineering, Hyperparameter Tuning, Feature Extraction, Data Annotations, Data Extraction.
+### 🤖 Multi-Agent AI Platform — Enterprise Business Operations
+> *Mindfire Solutions · Client: WWWSCO*
 
-- AI and Machine Learning Deliverables: AI Development, AI App Development, AI Model Development.
+Production-grade agentic platform orchestrating **5+ specialized AI agents** for sales analytics, documentation Q&A, product catalog search, and vendor analysis.
 
-- Key Concepts: Supervised Learning, Machine Learning Methods, Deep Learning Frameworks, Lstm Frameworks.
+- Architected with **A2A Protocol + LangGraph** for intelligent semantic query routing with parallel multi-agent execution
+- Built end-to-end RAG pipelines over **46+ business APIs** and **10,000+ product specifications** using Qdrant
+- Unified Data Processing Gateway via FastAPI with real-time **WebSocket progress tracking**
+- Containerized with Docker + supervisord — **80% reduction in deployment time**
 
-**Libraries:**  
-- NumPy, SciPy, Matplotlib, Seaborn.
+`Python` `LangGraph` `LangChain` `FastAPI` `Qdrant` `Google Gemini` `A2A Protocol` `Docker` `RAG` `Streamlit`
 
-# Projects
-## Semantic Segmentation on Prostate Cancer Dataset on Kaggle
-*India*  
-*10/2022 - 12/2022*
+---
 
-Performed Semantic Segmentation on Prostate Cancer detection competition Dataset using U-NET with backbone as ressnet-32 and it gives me 87% accuracy.
+### 📱 SMARTON — Sunbots AI Product
 
-- Trained an U-Net model.
-- Use Kaggle Prostate Cancer dataset.
-- Able to segment the prostated region in the image.
-- Performed well on test dataset with the F1 score of 87%.
+On-device AI for document and currency detection in a production mobile app.
 
-## DeepFake Image Detection
-*India*  
-*12/2022 - 01/2023*
+- Currency detection: **55% → 79%** accuracy through dataset optimization & hyperparameter tuning
+- Document detection: **80% → 94%** accuracy improvement
+- Built Document QA module using LangChain + RAG + vector database integration
 
-By using CNN performed an image classification on Deepfake Detection kaggle dataset and it gives around 98 to 99 % accuracy detecting deepfake images.
+`TensorFlow` `TFLite` `Mediapipe` `LangChain` `RAG` `MongoDB`
 
-- Able to determine the computer generated image.
-- Can be utilise for contend moderation and digital content authenticity.
+---
 
-## Object Detection
-*India*  
-*01/2023 - 02/2023*
+### 🎥 Theft Detection System
 
-Using and exploring Tensorflow Object Detection API and CV2 to perform Object Detection using various models like ssd_mobilenet and many more.
+End-to-end video intelligence pipeline for real-time activity detection.
 
-- Can be utilise in different use-cases for quality control, healthcare and many more based on utilisation.
-- Testing out the model integration with cv2.
+- Video classification accuracy: **30% → 65%** — transitioned from LSTM to pretrained **MMAction2** models
+- Deployed on **Jetson Nano** with Docker + FastAPI alert system
+- Engineered full training pipeline for Ultralytics and Super-Gradients frameworks
 
-# Languages
-**English** - Proficient
+`PyTorch` `MMAction2` `Ultralytics` `FastAPI` `Docker` `AWS SageMaker` `AWS S3`
 
-# Certificates
-- [Machine Learning Specialization-Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/FAP4NXVVA4LR)
+---
+
+## 🔬 Personal Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Semantic Segmentation — Medical Imaging](https://github.com/YogeshModi-04) | U-Net on prostate cancer dataset — **87% F1** | PyTorch, U-Net, ResNet |
+| [Deepfake Image Classification](https://github.com/YogeshModi-04) | CNN classifier — **98–99% accuracy** | TensorFlow, CNN, Kaggle |
+| [Multi-Camera RTSP Streaming](https://github.com/YogeshModi-04/stream_multicam) | Stream multiple IP cameras concurrently | OpenCV, Python, RTSP |
+| [Bank Customer Classification](https://github.com/YogeshModi-04/Bank_Default_Classification_ML) | ML pipeline for default prediction | Scikit-learn, Pandas |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YogeshModi-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YogeshModi-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+- 🎓 **Machine Learning Specialization** — Coursera / DeepLearning.AI *(Supervised ML, Advanced Algorithms, Unsupervised Learning, RL)*
+- 🔄 **Anthropic Certified Claude Associate (CCA-F)** — *In Progress · Jun 2026*
+- 📋 **AWS Solutions Architect Associate (SAA-C03)** — *In Progress · Aug 2026*
+
+---
+
+<div align="center">
+
+**Open to remote Sr. AI/ML Engineer roles at AI-first organizations.**
+
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yogesh-shivkumar-modi)
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skmodiyogesh@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
